@@ -1,4 +1,4 @@
-# K-meansCLusteringCustomerSegmentation-Unsupervised-Learning-
+# KmeansClusteringCustomerSegmentation-Unsupervised-Learning-
 ## Background
 A small e-commerce company want to understand its customers better using Machine Learning to target their loyalty program and promotion campaigns etc. Analyze the dataset provided (which is purposely kept small for exploration purpose).
 ## Dataset Introduction
